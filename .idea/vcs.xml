@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-member" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-openapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-operation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-pay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwoil-product" vcs="Git" />
+  </component>
+</project>

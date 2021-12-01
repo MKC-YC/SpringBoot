@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectIDEA.iml" filepath="$PROJECT_DIR$/.idea/ProjectIDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-base/bwoil-base.iml" filepath="$PROJECT_DIR$/bwoil-base/bwoil-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-base/bwoil-base-api/bwoil-base-api.iml" filepath="$PROJECT_DIR$/bwoil-base/bwoil-base-api/bwoil-base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-base/bwoil-base-service/bwoil-base-service.iml" filepath="$PROJECT_DIR$/bwoil-base/bwoil-base-service/bwoil-base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-eureka/bwoil-eureka.iml" filepath="$PROJECT_DIR$/bwoil-eureka/bwoil-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-gateway/bwoil-gateway.iml" filepath="$PROJECT_DIR$/bwoil-gateway/bwoil-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-member/bwoil-member.iml" filepath="$PROJECT_DIR$/bwoil-member/bwoil-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-member/bwoil-member-api/bwoil-member-api.iml" filepath="$PROJECT_DIR$/bwoil-member/bwoil-member-api/bwoil-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-member/bwoil-member-service/bwoil-member-service.iml" filepath="$PROJECT_DIR$/bwoil-member/bwoil-member-service/bwoil-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-openapi/bwoil-openapi.iml" filepath="$PROJECT_DIR$/bwoil-openapi/bwoil-openapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-api/bwoil-openapi-api.iml" filepath="$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-api/bwoil-openapi-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-gateway/bwoil-openapi-gateway.iml" filepath="$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-gateway/bwoil-openapi-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-service/bwoil-openapi-service.iml" filepath="$PROJECT_DIR$/bwoil-openapi/bwoil-openapi-service/bwoil-openapi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-operation/bwoil-operation.iml" filepath="$PROJECT_DIR$/bwoil-operation/bwoil-operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-operation/bwoil-operation-api/bwoil-operation-api.iml" filepath="$PROJECT_DIR$/bwoil-operation/bwoil-operation-api/bwoil-operation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-operation/bwoil-operation-service/bwoil-operation-service.iml" filepath="$PROJECT_DIR$/bwoil-operation/bwoil-operation-service/bwoil-operation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-order/bwoil-order.iml" filepath="$PROJECT_DIR$/bwoil-order/bwoil-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-order/bwoil-order-api/bwoil-order-api.iml" filepath="$PROJECT_DIR$/bwoil-order/bwoil-order-api/bwoil-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-order/bwoil-order-service/bwoil-order-service.iml" filepath="$PROJECT_DIR$/bwoil-order/bwoil-order-service/bwoil-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-pay/bwoil-pay.iml" filepath="$PROJECT_DIR$/bwoil-pay/bwoil-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-pay/bwoil-pay-api/bwoil-pay-api.iml" filepath="$PROJECT_DIR$/bwoil-pay/bwoil-pay-api/bwoil-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-pay/bwoil-pay-service/bwoil-pay-service.iml" filepath="$PROJECT_DIR$/bwoil-pay/bwoil-pay-service/bwoil-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-product/bwoil-product.iml" filepath="$PROJECT_DIR$/bwoil-product/bwoil-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-product/bwoil-product-api/bwoil-product-api.iml" filepath="$PROJECT_DIR$/bwoil-product/bwoil-product-api/bwoil-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bwoil-product/bwoil-product-service/bwoil-product-service.iml" filepath="$PROJECT_DIR$/bwoil-product/bwoil-product-service/bwoil-product-service.iml" />
+    </modules>
+  </component>
+</project>
